@@ -18,3 +18,24 @@
 * [Earning as a depositor](execution/earning-as-an-lp.md)
 * [Splits, dividends and other events](execution/splits-and-dividends.md)
 * [What a trade costs](execution/costs.md)
+
+## Asset catalog
+
+* [Tokenized equities on Solana](catalog/tokenized-equities.md)
+* [How an asset gets admitted](catalog/admission-criteria.md)
+* [USDC as the quote currency](catalog/quote-currency.md)
+* [Where the catalog goes next](catalog/expansion.md)
+
+## Safeguards
+
+* [How we model risk](safeguards/risk-model.md)
+* [Defending price data](safeguards/price-data-defenses.md)
+* [When the network misbehaves](safeguards/network-disruptions.md)
+* [Depending on issuers](safeguards/issuer-dependence.md)
+* [What past failures teach](safeguards/precedents.md)
+
+## Solana essentials
+
+* [A primer on the network](solana/network-primer.md)
+* [Connecting a wallet](solana/connecting-a-wallet.md)
+* [Projects we build alongside](solana/partners-and-integrations.md)
